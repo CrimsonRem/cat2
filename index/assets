@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+      <link rel="stylesheet" href="index.css" type="text/css">
+      <!--used to connect css and hml files to website-->
+</head>
+
+<body>
+      <h1> My essay on why </h1>
+      <h2> why not </h2>
+      <img src="./poi.gif" alt="failure">
+      <p> why would i not ask why because why is a question which the answer will always be to is why not.</p>
+      <a href="https://www.youtube.com/watch?v=XUhVCoTsBaM"> WHY NOT!!!!!!!</a>
+      <!--why cant you see this?-->
+      <!--why not?-->
+      <aside>
+            why is this so meta?
+      </aside>
+      <blockquote cite="file:///C:/Users/mavvi/Desktop/code%20thing/WCTD2019/index.html">
+            <p>why not
+            </p>
+      </blockquote>
+      <d1>
+            <dt class="myfirstclass">why not</dt>
+            <!--class used in css to target dt-->
+            <dd>why not is a phrase used to say why shouldnt something occur when it is possible however,stop reading
+                  this because its
+                  complicated i said stop. now say i dont wanna and then i say why. thats your que. </dd>
+      </d1>
+      <d1>
+            <dt>why knot</dt>
+      </d1>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ATcKBMYYSJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+      <ul>
+            <p>Why</p>
+            <li>why not</li>
+            <li style="color:blue"> why not but in blue </li>
+      </ul>
+      <table>
+            <tr>
+                  <td>why</td>
+                  <td>not</td>
+            </tr>
+            <tr>
+                  <td>cause</td>
+                  <td>why</td>
+            </tr>
+            <tr>
+                  <td>not</td>
+                  <td>potato</td>
+            </tr>
+      </table>
+      <h3>you will now take a test</h3>
+      <p>why</p>
+      <form>
+            <!--this is a form which can be filed out-->
+            <input type="text" name="why" placeholder="Answer"/>
+            <input type="submit" value="finish">
+      </form>
+
+      <a href="./project 1.html"> a website</a>
+      <div id="media"> <img src="./breath of wild.jpg" alt=try again>
+      </div>
+</body>
+
+</html>
+
+
+
+
+
+CSS
+body{
+    background-color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+a{
+    color: cornsilk
+}
+dt{
+    color: cyan
+}
+
+.myfirstclass{ 
+    background-color: deepskyblue;
+    padding: 5px;
+    display: inline-block;
+}
+/*. means you are targeting a class*/
+#media img{
+    width:500px;
+    height:auto;
+}
+/*used to change pic size*/
